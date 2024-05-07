@@ -1,5 +1,4 @@
 quantized-lag-llama/
-*.csv
 data/
 gluon_utils/
 lag_llama/
